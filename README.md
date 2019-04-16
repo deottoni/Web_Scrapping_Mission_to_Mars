@@ -16,6 +16,6 @@ This project consisted in scrapping data related to Mars from a variety of sourc
 * Bootstrap 
 
 
-See final look of my flask app:
+See final look of my app:
 <kbd>![app](screenshot_mission_to_mars.png)</kbd>
 
